@@ -18,7 +18,7 @@
 ## 📁 This organization hosts robotics projects built with ROS 2, including simulation, perception, navigation, and real-world robot control.
 
 
-## 🧑‍💻 Software and Tools
+## 🧑‍💻 Tech Stack and Tools
 
 <table>
 <tr>
